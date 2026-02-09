@@ -6,8 +6,7 @@
     "build": "next build",
     "dev": "node ./scripts/dev-with-root-env.js",
     "lint": "eslint .",
-    "start": "next start",
-    "vercel-install": "npm install --legacy-peer-deps"
+    "start": "next start"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "^1.3.1",
